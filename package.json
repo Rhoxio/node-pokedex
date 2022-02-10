@@ -33,7 +33,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2"
   }
 }
